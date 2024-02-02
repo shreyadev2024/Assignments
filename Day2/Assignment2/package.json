@@ -1,0 +1,19 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "assignment2",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "assignment2"
+  ],
+  "author": "Shreya Dalvi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pm2": "^5.3.1"
+  }
+}

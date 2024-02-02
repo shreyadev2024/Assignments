@@ -1,0 +1,17 @@
+(base) shreya.dalvi Assignment1 % node app.js --filename file1.txt
+Content written to 'file1.txt': You are awesome
+Filename 'file1.txt' appended to 'filenamesFile.txt'.
+(base) shreya.dalvi Assignment1 % node app.js --filename file2.txt
+Content written to 'file2.txt': You are awesome
+Filename 'file2.txt' appended to 'filenamesFile.txt'.
+(base) shreya.dalvi Assignment1 % node app.js --filename file3.txt
+Content written to 'file3.txt': You are awesome
+Filename 'file3.txt' appended to 'filenamesFile.txt'.
+(base) shreya.dalvi Assignment1 % node app.js --filename file3.txt
+Filename 'file3.txt' already exists. Please choose a different filename.
+(base) shreya.dalvi Assignment1 % node app.js --filename file4.txt
+Content written to 'file4.txt': You are awesome
+Filename 'file4.txt' appended to 'filenamesFile.txt'.
+(base) shreya.dalvi Assignment1 % node app.js --filename file4.txt
+Filename 'file4.txt' already exists. Please choose a different filename.
+(base) shreya.dalvi Assignment1 % 

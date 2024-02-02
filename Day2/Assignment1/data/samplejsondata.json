@@ -1,0 +1,35 @@
+{
+    "id": 12345,
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "age": 28,
+    "email": "alice@example.com",
+    "isActive": true,
+    "address": {
+      "street": "456 Oak St",
+      "city": "Springfield",
+      "zipCode": "12345",
+      "country": "USA"
+    },
+    "phoneNumbers": {
+      "home": "+1 555-1234",
+      "work": "+1 555-5678"
+    },
+    "skills": ["JavaScript", "React", "Node.js"],
+    "employmentHistory": [
+      {
+        "company": "TechCo",
+        "position": "Software Engineer",
+        "startDate": "2018-01-01",
+        "endDate": "2022-05-31"
+      },
+      {
+        "company": "InnoCorp",
+        "position": "Senior Developer",
+        "startDate": "2022-06-01",
+        "endDate": null
+      }
+    ],
+    "interests": ["Reading", "Traveling", "Photography"]
+  }
+  
